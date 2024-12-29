@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "385521579362",
+    "project_id": "lapshop-compose",
+    "storage_bucket": "lapshop-compose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385521579362:android:c38f83d55e6ffe329aa83b",
+        "android_client_info": {
+          "package_name": "com.example.lapshopcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIqngGtYEnoOavs9DuVmFVDFR5HNCLuoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

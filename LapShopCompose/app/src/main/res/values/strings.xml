@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LaptopShopJetpackCompose</string>
+    <string name="intro_title">
+        Chào mừng bạn đến với shop công nghệ \n
+        <font color ="#39c7a5"> The Technology World </font>
+    </string>
+
+    <string name="intro_sub_title"> Xin mời trải nghiệm mua sắm nhanh chóng và thông minh
+    với giao diện thân thiện, dễ dàng thanh toán</string>
+
+    <string name="letgetstrated"> Bắt đầu trải nghiệm </string>
+    <string name="signin">Bạn đã có tài khoản? Đăng ký</string>
+</resources>
